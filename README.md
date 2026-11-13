@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-[![tests](https://github.com/junglestyle/hypertrace/actions/workflows/test.yml/badge.svg)](https://github.com/junglestyle/hypertrace/actions/workflows/test.yml)
+[![tests](https://github.com/lowmagic/hypertrace/actions/workflows/test.yml/badge.svg)](https://github.com/lowmagic/hypertrace/actions/workflows/test.yml)
 
 # Hypertrace
 
