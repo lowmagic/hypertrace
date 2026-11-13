@@ -2,7 +2,7 @@
 
 Hypertrace follows the [org standards](org-standards.md) and the org's standards for [Python](org-standards-python.md)
 and [SQL](org-standards-sql.md), unchanged copies of
-[junglestyle's](https://github.com/junglestyle/.github/tree/main/code-standards). `.org-standards` lists the topics it
+[lowmagic's](https://github.com/lowmagic/.github/tree/main/code-standards). `.org-standards` lists the topics it
 copies beyond the general one. This file adds Hypertrace's own rules and examples. Where it differs from an org rule, it
 says so, and it wins.
 
